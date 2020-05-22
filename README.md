@@ -16,19 +16,19 @@ The constituent parts of Snake
 You can see the original version of the snake by clicking on the link below, now I will describe step by step my changes.
 
 1.	
-https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/3.jpeg
+![Img](https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/3.jpeg)
 
 So in the initially having just one color of the snake, I added a new window using the class, in which a field will be displayed where the user can select one of the proposed colors.
 
 2.
-https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/1.jpeg
-https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/4.jpeg
+![](https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/1.jpeg)
+![](https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/4.jpeg)
 
 Thus, when the user selects a color, the snake in the game will be the color that he chose. For example, if you select green, the snake in the game will be green; if blue, it will be blue.
 
 3.
 Also, if the snake bites itself, it will mean the end of the game and the color of the snake changes to black.
-https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/2.jpeg
+![](https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/2.jpeg)
 
 
 *Code of Conduct*

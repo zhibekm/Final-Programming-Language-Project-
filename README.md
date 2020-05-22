@@ -15,6 +15,7 @@ You can see the original version of the snake by clicking on the link below, now
 https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/3.jpeg
 
 So in the initially having just one color of the snake, I added a new window using the class, in which a field will be displayed where the user can select one of the proposed colors.
+
 2.
 https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/1.jpeg
 https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/4.jpeg

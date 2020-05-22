@@ -3,9 +3,13 @@ About Snake Game
 
 Snake is a popular legendary game where the player manipulates a given figure (line), the length of which increases during the game. The easy algorithm of the game became the reason for its implementation in completely different versions for many platforms.
 For my project, I took a simple snake game and modified it with four new features, such as:
+
 •	New window - menu
+
 •	New snake colors
+
 •	The ability to change window size
+
 •	The ability to change the speed of the snake
 
 The constituent parts of Snake
@@ -27,13 +31,13 @@ Also, if the snake bites itself, it will mean the end of the game and the color 
 https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/2.jpeg
 
 
-Code of Conduct
+*Code of Conduct*
 
 For the Snake game community to welcome everyone, read our Code of Conduct and ask you to comply with it.
 Code of Conduct - includes adequate criticism, respect for the author of the project, if you have questions or suggestions, describe the problem in more detail and contact me, all necessary contacts will be at the end of the project description.
 
 
-Security vulnerabilities
+*Security vulnerabilities*
 
 If you find errors in my code, please indicate all errors and contact me. All errors will be fixed immediately.
 

@@ -28,23 +28,29 @@ https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Scree
 
 
 Code of Conduct
+
 For the Snake game community to welcome everyone, read our Code of Conduct and ask you to comply with it.
 Code of Conduct - includes adequate criticism, respect for the author of the project, if you have questions or suggestions, describe the problem in more detail and contact me, all necessary contacts will be at the end of the project description.
 
 
 Security vulnerabilities
+
 If you find errors in my code, please indicate all errors and contact me. All errors will be fixed immediately.
 
 
 Promotion
+
 In case of a suggestion or comment, i ask you to leave your comments in the issues department.
 
 
 License
+
 The license belongs to the original author below; a modified version created by me belongs to me, a first-year student at Ala-Too International University, Computer Science Faculty. 
 
 
 Project author
+
 Original version of the project - https://github.com/hexadeciman/Snake
+
 Zhibek Mukhtarbekova - – zhibek.mukhtarbekova@iaau.edu.kg
 

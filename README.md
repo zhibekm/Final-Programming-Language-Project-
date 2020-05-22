@@ -10,6 +10,7 @@ For my project, I took a simple snake game and modified it with four new feature
 
 The constituent parts of Snake
 You can see the original version of the snake by clicking on the link below, now I will describe step by step my changes.
+
 1.	
 https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/3.jpeg
 
@@ -24,18 +25,23 @@ Thus, when the user selects a color, the snake in the game will be the color tha
 Also, if the snake bites itself, it will mean the end of the game and the color of the snake changes to black.
 https://github.com/zhibekm/Final-Programming-Language-Project-/blob/master/Screenshots/2.jpeg
 
+
 Code of Conduct
 For the Snake game community to welcome everyone, read our Code of Conduct and ask you to comply with it.
 Code of Conduct - includes adequate criticism, respect for the author of the project, if you have questions or suggestions, describe the problem in more detail and contact me, all necessary contacts will be at the end of the project description.
 
+
 Security vulnerabilities
 If you find errors in my code, please indicate all errors and contact me. All errors will be fixed immediately.
+
 
 Promotion
 In case of a suggestion or comment, i ask you to leave your comments in the issues department.
 
+
 License
 The license belongs to the original author below; a modified version created by me belongs to me, a first-year student at Ala-Too International University, Computer Science Faculty. 
+
 
 Project author
 Original version of the project - https://github.com/hexadeciman/Snake

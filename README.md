@@ -1,5 +1,5 @@
 # Final-Programming-Language-Project-
-About Snake Game
+_About Snake Game_
 
 Snake is a popular legendary game where the player manipulates a given figure (line), the length of which increases during the game. The easy algorithm of the game became the reason for its implementation in completely different versions for many platforms.
 For my project, I took a simple snake game and modified it with four new features, such as:
@@ -38,22 +38,18 @@ Code of Conduct - includes adequate criticism, respect for the author of the pro
 
 
 *Security vulnerabilities*
-
 If you find errors in my code, please indicate all errors and contact me. All errors will be fixed immediately.
 
 
-Promotion
-
+*Promotion*
 In case of a suggestion or comment, i ask you to leave your comments in the issues department.
 
 
-License
-
+*License*
 The license belongs to the original author below; a modified version created by me belongs to me, a first-year student at Ala-Too International University, Computer Science Faculty. 
 
 
-Project author
-
+*Project author*
 Original version of the project - https://github.com/hexadeciman/Snake
 
 Zhibek Mukhtarbekova - – zhibek.mukhtarbekova@iaau.edu.kg
